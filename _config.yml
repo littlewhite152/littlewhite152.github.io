@@ -7,7 +7,7 @@
 # 井号后面的文字是说明文档，不会被程序读取。
 
 # 描述/签名
-name: jasoncoder
+name: LOFFER
 description: 一个可以fork的博客
 
 # 输入你的网站域名（如果你没有添加自己的域名，而是直接用GitHub pages分配的域名的话可以省略）
@@ -52,14 +52,14 @@ footer-links:
   weibo:  #请输入你的微博个性域名 https://www.weibo.com/<thispart>
   behance: # https://www.behance.net/<>
   dribbble: # https://dribbble.com/<>
-  email: 1078548486@qq.com #youremailaddress@mail.com
+  email: #youremailaddress@mail.com
   facebook: #https://www.facebook.com/<>
   flickr: #https://www.flickr.com/<>
-  github: https://github.com/littlewhite152 #https://github.com/<>
+  github: FromEndWorld/loffer #https://github.com/<>
   instagram: #https://instagram.com/<>
   linkedin: #https://www.linkedin.com/in/<>
   pinterest: #https://www.pinterest.com/<>
-  rss: rss #随便填点啥RSS就能用了
+  rss: #随便填点啥RSS就能用了
   stackoverflow: # http://stackoverflow.com/<>
   tumblr: # https://<username>.tumblr.com
   twitter: # https://www.twitter.com/<your_twitter_username> 
@@ -126,6 +126,3 @@ exclude:
   - LICENSE
   - README.md
   - CNAME
-
-
-theme: jekyll-theme-cayman
